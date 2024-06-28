@@ -70,3 +70,48 @@ training.
 member.
 
 ## Screenshots
+### Login
+<img src="screenshots/login%20page.jpg" width="30%">
+
+### SignUp as Player
+<img src="screenshots/signup%20player.jpg" width="30%">
+
+### SignUp as Team-Admin
+<img src="screenshots/signup%20coach.jpg" width="30%">
+
+### Home Screen of Players
+<img src="screenshots/home.jpg" width="30%">
+
+### Home Screen of Team-Admins
+<img src="screenshots/home%20team.jpg" width="30%">
+
+### Profile of Players
+<img src="screenshots/personal%20data.jpg" width="30%">
+
+### Players View Team-Admins
+<img src="screenshots/players%20team.jpg" width="30%">
+
+### Attendance History of Players
+<img src="screenshots/attendance%20history.jpg" width="30%">
+
+### Attendance History of Team-Admins
+<img src="screenshots/attendance%20history%20team.jpg" width="30%">
+
+### Match History of Players
+<img src="screenshots/match%20history.jpg" width="30%">
+
+### Match History of Team-Admins
+<img src="screenshots/match%20history%20team.jpg" width="30%">
+
+### Generate QR Code
+<img src="screenshots/generate%20qr.jpg" width="30%">
+
+### Scan QR Code
+<img src="screenshots/scan%20qr.jpg" width="30%">
+
+### Create a Match (ELO RANKER)
+<img src="screenshots/create%20a%20match.jpg" width="30%">
+
+### Cancel a Match 
+<img src="screenshots/delete%20match.jpg" width="30%">
+
